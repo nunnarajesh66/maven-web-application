@@ -94,7 +94,6 @@
 	</dependencies>
 	
 	<distributionManagement>
-	http://15.206.75.100:8081/repository/amazon-snapshot/
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
