@@ -94,17 +94,17 @@
 	</dependencies>
 	
 	<distributionManagement>
-	
+	http://15.206.75.100:8081/repository/amazon-snapshot/
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.203.204:8081/repository/amazon-release/</url>
+	      <url>http://15.206.75.100:8081/repository/amazon-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.203.204:8081/repository/amazon-snapshot/</url>
+	      <url>http://15.206.75.100:8081/repository/amazon-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
